@@ -1,6 +1,8 @@
 # Trabajo-del-grupo-4-de-algoritmo-computacional.
--David Carmona: David Carmona Rosa
+-David Carmona: 25-SISN-2-013
+
 -Manuel M. Rijo: 25-SSON-2-006
+
 -Geily Espinosa: 25-SISN-2-045
 
 -Asignatura: Algortimo computacional
